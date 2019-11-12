@@ -35,7 +35,7 @@ class TimerExampleActivity : AppCompatActivity() {
     }
 
     /*
-     * simple example using timer to do something after 2 second
+     * simple example using timer to do something after 2 seconds
      */
     private fun doSomeWork() {
         getObservable()
